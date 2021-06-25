@@ -123,5 +123,5 @@ O exercício para casa devera ser feito dentro da pasta servidor-para-casa. Lá 
 			    |       estados-cidades.json**
 ```
 
-## Foi realizada a criação das portas, ao acessar localhost:6000/estados/todos, via postman, uma REQUEST será realizada através do metódo GET, e será devolvido a RESPONSE 
-com todos os Estados. Também será possível realizar uma REQUEST pela sigla do Estado.
+**Foi realizada a criação das portas, ao acessar localhost:6000/estados/todos, via postman, uma REQUEST será realizada através do metódo GET, e será devolvido a RESPONSE 
+com todos os Estados. Também será possível realizar uma REQUEST pela sigla do Estado.**
